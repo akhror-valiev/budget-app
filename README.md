@@ -5,7 +5,7 @@
  
   <br/>
 
-  <h1><b>Recipe App Website</b></h1>
+  <h1><b>Budget App, Capstone Project</b></h1>
 
 </div>
 
@@ -32,9 +32,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Recipe-app] <a name="about-project"></a>
+# 📖 [Budget-app] <a name="about-project"></a>
 
-**[Recipe-app]** is a blog web application. User can create accounts, posts and users can add likes and comments for those posts. Built with ruby on rails.
+**[Budget-app]** is a blog web application. User can create accounts, posts and users can add likes and comments for those posts. Built with ruby on rails.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -50,7 +50,7 @@
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.sqlite.org/">SQLite3</a></li>
+    <li><a href="https://www.sqlite.org/">PostgreSQL</a></li>
   </ul>
 </details>
 
@@ -58,10 +58,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[It will allow to save ingredients]**
-- **[Create recipes]**
-- **[Generate a shopping list]**
-- **[Sharing recipes]**
+- **[sign in and sign up]**
+- **[form validations]**
+- **[Categorized and Transactioned]**
+- **[Rspec uni-testing]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +94,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/akhror-valiev/recipe-app.git
+  git clone https://github.com/akhror-valiev/budget-app.git
 
 ```
 
@@ -142,7 +142,6 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Auth]**
 - [ ] **[Pagination]**
 - [ ] **[Search_Posts]**
 
