@@ -65,13 +65,13 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+<-- LIVE DEMO -->
 
-<!-- ## 🚀 Live Demo <a name="live-demo">https://budgetsapp.onrender.com/</a>
+## 🚀 Live Demo <a name="live-demo">https://budgetsapp.onrender.com/</a>
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://budgetsapp.onrender.com/)
+[Live Demo Link](https://budgetsapp.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
